@@ -1,12 +1,8 @@
 
 # Proj 3
 
-This file contains the main driver program for Project 3.
+This project allows a user to create daily schedules until they decide to exit the module.
 
-This program reads the file specified by the user,
+It makes use of Dynamic Allocation, Vectors, Linked Lists (for the schedules), and Overloaded Operatoes 
 
-manages schedules and performs operations like inserting into
-
-a schedule, reversing one, and much more until the user decides
-
-to end the program.
+throughout the operation of the module.
