@@ -135,7 +135,7 @@ ostream &operator<< (ostream &output, Schedule &mySchedule){
     // creation of curr node to traverse LL
     Item *curr = mySchedule.m_head;
 
-    // returns a mesage if the schedule is empty
+    // returns a message if the schedule is empty
     if(curr == nullptr){
         output << "The schedule is empty" << endl;
         return output;
